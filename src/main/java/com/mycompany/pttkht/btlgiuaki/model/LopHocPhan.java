@@ -6,24 +6,19 @@ package com.mycompany.pttkht.btlgiuaki.model;
 
 /**
  *
- * @author 84978
+ * @author CUONGNM.B19CN083
  */
-public class MonHoc {
+public class LopHocPhan {
     
     private Long id;
     private String ten;
-    private String mieuta;
-    private Integer sotc;
-    private Long bomonId;
+    private String mota;
+    private Long lophocdangkiId;
     
     // Getter, Setter
     
-    public void luuMonHoc(MonHoc monHoc) {
-        // Luu mon hoc vao database
-    }
-    
-    public MonHoc getMonHocCuaSV(Integer svId) {
-        // lay mon hoc cua sv tu database
+    public LopHocPhan getLHPCuaMH(Integer monHocId) {
+        // lay LopHocPhan cua MonHoc tu database
         return null;
     }
 }

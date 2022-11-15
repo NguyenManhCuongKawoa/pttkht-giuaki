@@ -15,6 +15,16 @@ public class GDTimNamHoc {
     private  NamHoc namHoc;
     private KiHoc kiHoc;
     
+    private void searchNamHoc(java.awt.event.ActionEvent evt) {   
+        // Giao dien tim nam hoc yeu cau lop thuc the nam hoc 
+        // goi phuong thuc searchNamHoc()
+    } 
+    
+    private void chonKiHoc(java.awt.event.ActionEvent evt) { 
+        // Giao dien tim nam hoc yeu cau lop thuc the ki hoc 
+        // goi phuong thuc getKiHoc()
+    } 
+    
     private void clickBtnTiepTuc(java.awt.event.ActionEvent evt) {                                        
         // Hien thi giao dien them nam hoc
         

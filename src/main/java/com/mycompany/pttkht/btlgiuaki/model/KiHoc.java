@@ -10,8 +10,19 @@ package com.mycompany.pttkht.btlgiuaki.model;
  */
 public class KiHoc {
     
+    private Integer danghoc;
+    private Integer hockiId;
+    private Integer namhocId;
+    
+    // Getter, Setter
+    
     public KiHoc getKiHoc() {
         // lay du lieu ki hoc tu database
+        return null;
+    }
+    
+    public KiHoc getKiHocdangki() {
+        // lay du lieu ki hoc dang ki tu database
         return null;
     }
 }

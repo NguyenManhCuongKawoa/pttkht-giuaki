@@ -10,6 +10,12 @@ package com.mycompany.pttkht.btlgiuaki.model;
  */
 public class NamHoc {
     
+    private Long id;
+    private String ten;
+    private String mota;
+    
+    // Getter, Setter
+    
     public NamHoc searchNamHoc(String keyword) {
         // Tim kiem nam hoc tu database
         return null;

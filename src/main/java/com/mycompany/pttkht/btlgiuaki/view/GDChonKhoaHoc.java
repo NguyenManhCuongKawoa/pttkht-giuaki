@@ -14,9 +14,5 @@ public class GDChonKhoaHoc {
     
     private void clickOneKhoaHoc(java.awt.event.ActionEvent evt) {                                        
         // Hien thi giao dien tim nam hoc
-        // Giao dien tim nam hoc yeu cau lop thuc the nam hoc 
-        // goi phuong thuc searchNamHoc()
-        // Giao dien tim nam hoc yeu cau lop thuc the ki hoc 
-        // goi phuong thuc getKiHoc()
     } 
 }
